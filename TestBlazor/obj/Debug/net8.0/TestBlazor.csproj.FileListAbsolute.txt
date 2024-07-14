@@ -27,3 +27,4 @@ C:\Users\JUMJUMZ\Desktop\WORK\NET\TestBlazor\TestBlazor\obj\Debug\net8.0\refint\
 C:\Users\JUMJUMZ\Desktop\WORK\NET\TestBlazor\TestBlazor\obj\Debug\net8.0\TestBlazor.pdb
 C:\Users\JUMJUMZ\Desktop\WORK\NET\TestBlazor\TestBlazor\obj\Debug\net8.0\TestBlazor.genruntimeconfig.cache
 C:\Users\JUMJUMZ\Desktop\WORK\NET\TestBlazor\TestBlazor\obj\Debug\net8.0\ref\TestBlazor.dll
+C:\Users\JUMJUMZ\Desktop\WORK\NET\TestBlazor\TestBlazor\obj\Debug\net8.0\TestBlazor.sourcelink.json
