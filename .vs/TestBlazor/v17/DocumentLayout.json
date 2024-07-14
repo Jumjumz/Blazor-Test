@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JUMJUMZ\\Desktop\\WORK\\NET\\TestBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90A6A3-D0AF-4F73-B251-DD8337EE8966}|TestBlazor\\TestBlazor.csproj|c:\\users\\jumjumz\\desktop\\work\\net\\testblazor\\testblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B90A6A3-D0AF-4F73-B251-DD8337EE8966}|TestBlazor\\TestBlazor.csproj|solutionrelative:testblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90A6A3-D0AF-4F73-B251-DD8337EE8966}|TestBlazor\\TestBlazor.csproj|c:\\users\\jumjumz\\desktop\\work\\net\\testblazor\\testblazor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B90A6A3-D0AF-4F73-B251-DD8337EE8966}|TestBlazor\\TestBlazor.csproj|solutionrelative:testblazor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90A6A3-D0AF-4F73-B251-DD8337EE8966}|TestBlazor\\TestBlazor.csproj|c:\\users\\jumjumz\\desktop\\work\\net\\testblazor\\testblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B90A6A3-D0AF-4F73-B251-DD8337EE8966}|TestBlazor\\TestBlazor.csproj|solutionrelative:testblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B90A6A3-D0AF-4F73-B251-DD8337EE8966}|TestBlazor\\TestBlazor.csproj|c:\\users\\jumjumz\\desktop\\work\\net\\testblazor\\testblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B90A6A3-D0AF-4F73-B251-DD8337EE8966}|TestBlazor\\TestBlazor.csproj|solutionrelative:testblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JUMJUMZ\\Desktop\\WORK\\NET\\TestBlazor\\TestBlazor\\appsettings.json",
+              "RelativeDocumentMoniker": "TestBlazor\\appsettings.json",
+              "ToolTip": "C:\\Users\\JUMJUMZ\\Desktop\\WORK\\NET\\TestBlazor\\TestBlazor\\appsettings.json",
+              "RelativeToolTip": "TestBlazor\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T12:36:45.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JUMJUMZ\\Desktop\\WORK\\NET\\TestBlazor\\TestBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "TestBlazor\\Program.cs",
+              "ToolTip": "C:\\Users\\JUMJUMZ\\Desktop\\WORK\\NET\\TestBlazor\\TestBlazor\\Program.cs",
+              "RelativeToolTip": "TestBlazor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:50:50.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\JUMJUMZ\\Desktop\\WORK\\NET\\TestBlazor\\TestBlazor\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TestBlazor\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\JUMJUMZ\\Desktop\\WORK\\NET\\TestBlazor\\TestBlazor\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TestBlazor\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T11:49:53.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\JUMJUMZ\\Desktop\\WORK\\NET\\TestBlazor\\TestBlazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "TestBlazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\JUMJUMZ\\Desktop\\WORK\\NET\\TestBlazor\\TestBlazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "TestBlazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T11:48:15.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
