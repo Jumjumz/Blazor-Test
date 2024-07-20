@@ -1,7 +1,29 @@
 ﻿@page "/"
+@rendermode InteractiveServer
 
 <PageTitle>Home</PageTitle>
 
-<h1>Hello, world!!!</h1>
+<h1>Hello, world!!</h1>
 
-Welcome to your new app.
+<h4 class=" fw-bold text-capitalize">Looks like trash framework for me. Including .NET MVC!</h4>
+
+<button @onclick="changeName">Click</button>
+
+<p class=" fw-bolder text-capitalize">Name of the user: @name</p>
+
+@code {
+	string name = "";
+
+	private void changeName()
+	{
+		name = "Jummer";
+
+		if(name.Length > 0)
+		{
+			Console.WriteLine(name);
+		} else
+		{
+			Console.WriteLine("Error");
+		}
+	}
+}
